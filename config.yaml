@@ -5,7 +5,7 @@ params:
   palette: blue
   header:
     title: James Scott
-    tagline: Header Tagline
+    tagline: Technical writer based in London
     profile_img: images/avatar.png
     bg: dark
     has_nav: true
