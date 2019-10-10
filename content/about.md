@@ -1,7 +1,6 @@
 ---
 title: About Me
-subtitle: This is a short page about me and my work.
-img_path: images/about.jpg
+img_path: images/me.jpg
 layout: page
 menu:
   main:
@@ -9,12 +8,24 @@ menu:
     name: About
 ---
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+My name is **James Scott** and I’m a contract technical writer based in London, UK. After graduating from the University of Leicester with a degree in English literature, I became a journalist and worked for newspapers in Kent for six years before moving into technical writing.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+I have worked with engineering teams in FinTech, the hospitality sector, AIOps (Artifical Intelligence for IT operations) and Android development. Most of my recent work has predominantly involved developer and API documentation.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+### Public speaking 
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+I have given talks at two of the largest technical writing conferences in Europe: 
 
-*Thank You for reading!*
+**How to write great error messages** - Write the Docs, Prague (September 2019).
+
+![Recording](https://www.youtube.com/watch?v=hzCfl8CGJuw)
+
++ 💾 [Slides](https://speakerdeck.com/scottydocs/101-to-404-s-how-to-write-a-great-error-message)
++ 🌍 [Conference link](https://www.writethedocs.org/conf/prague/2019/)
+
+**Is GraphQL really self-documenting?** - API the Docs, London (November 2018).
+
+![Recording](https://www.youtube.com/watch?v=rKzHc1hozB8)
+
++ 💾 [Slides](https://speakerdeck.com/scottydocs/is-graphql-really-self-documenting)
++ 🌍 [Conference link](https://apithedocs.org/london2018/agenda/jamesscott)
