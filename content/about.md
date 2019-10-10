@@ -1,6 +1,6 @@
 ---
 title: About Me
-img_path: images/me.jpg
+img_path: images/about.jpg
 layout: page
 menu:
   main:
